@@ -1,4 +1,4 @@
-### Hi there 👋
+Oh, I'm afraid you have to waste 59s if you read this README for a minute(doge).
 
 <!--
 **UltraPenguin/UltraPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
